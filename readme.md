@@ -24,3 +24,5 @@ Also, it must calibrate itself when powered on.
 
 ## Demo: https://youtu.be/XVGPm5OM4Hs
 
+Teammate: https://github.com/andreid26/LineFollower
+
